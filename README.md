@@ -9,9 +9,10 @@ Brendan:
    3. percent error rms.py
    
 Daniel:
-   1.
-   2.
-   3.
+   1. methods/pca_fullimg.py
+   2. methods/harris_corners.py
+   3. methods/sliding_window.py
+   4. hybrid_system.py
    
 Jake:
    1.
