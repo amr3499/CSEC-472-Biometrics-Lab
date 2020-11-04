@@ -16,7 +16,7 @@ Daniel:
    
 Jake:
    1. mse.py
-   2.
+   2. ssim.py
    3. percent error median.py
    
 Evan:
