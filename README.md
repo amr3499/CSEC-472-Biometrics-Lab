@@ -15,7 +15,7 @@ Daniel:
    4. hybrid_system.py
    
 Jake:
-   1.
+   1. mse.py
    2.
    3. percent error median.py
    
